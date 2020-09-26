@@ -27,12 +27,9 @@ You have access to icons :-
 
 
 
-### ---------LINK TO THE ICONS ARE-------------------------------------------------------------------------------
-
-
-
-
- [![here](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/here1.png (Here))][8]
+### ---------LINK TO THE ICONS ARE:- 
+[![here](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/here.png (Here))][8]
+------------------------------------------------------
 
 [8]: https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
 
