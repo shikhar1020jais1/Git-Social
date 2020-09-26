@@ -16,5 +16,5 @@ You have access to icons :-
 ![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))
 
 ---------LINK TO THE ICON IS-------------------------------------------------------------------------------
-[![button](https://cdn.pixabay.com/photo/2016/06/29/16/53/click-here-button-1487274_960_720.png (button))][1]
-[1]: https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
+[![button](https://cdn.pixabay.com/photo/2016/06/29/16/53/click-here-button-1487274_960_720.png (button))][ https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons]
+
