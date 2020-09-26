@@ -24,7 +24,9 @@ You have access to icons :-
 [7]: https://tumblr.com
 
 ---------LINK TO THE ICON IS-------------------------------------------------------------------------------
+
 [![here](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/here.png (Here))][8]
+
 [8]: https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
 
 ### CODE:-
