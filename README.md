@@ -22,6 +22,7 @@ HERE:- https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
 
 <!-- display the social media buttons in your README -->
 '''
+----------------------------------------------------------------------------------------------------------
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
@@ -37,5 +38,5 @@ HERE:- https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
 [5]: https://www.github.com/username
 [6]: https://in.pinterest.com/username
 [7]: https://username.tumblr.com
-
+---------------------------------------------------------------------------------------------------------------
 '''
