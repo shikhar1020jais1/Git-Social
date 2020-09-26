@@ -22,7 +22,7 @@ HERE:- https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
 
 ```
 <!-- display the social media buttons in your README -->
-----------------------------------------------------------------------------------------------------------
+
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
@@ -30,6 +30,8 @@ HERE:- https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
 [![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
 [![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
+
+<!-- To Link your profile to the media buttons -->
 
 [1]: https://www.facebook.com/username
 [2]: https://www.instagram.com/username
@@ -39,5 +41,13 @@ HERE:- https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
 [6]: https://in.pinterest.com/username
 [7]: https://username.tumblr.com
 ---------------------------------------------------------------------------------------------------------------
-<!-- display the social media buttons in your README -->
+
 ```
+### License
+
+Do whatever you want
+
+
+### Notice
+
+Many Icons are available in the repository if your need more mail me @ shikhar1020jaiswal@gmail.com
