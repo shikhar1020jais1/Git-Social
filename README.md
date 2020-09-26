@@ -6,6 +6,9 @@ Easy: Fork this repo and it with your own social media URLs. You can then copy /
 ### Example
 
 What's included
+```
+    ----------------------------------------------------------------------------------
+```
 You have access to icons :-
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
@@ -22,6 +25,10 @@ You have access to icons :-
 [5]: https://www.github.com/
 [6]: https://in.pinterest.com/
 [7]: https://tumblr.com
+
+```
+ ----------------------------------------------------------------------------------
+```
 
 ---------LINK TO THE ICONS ARE-------------------------------------------------------------------------------
 
