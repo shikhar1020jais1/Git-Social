@@ -7,13 +7,21 @@ Example
 
 What's included
 You have access to icons :-
-![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))
-![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))
-![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))
-![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))
-![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))
-![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))
-![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
+[![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
+[![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
+
+[1]: https://www.facebook.com/
+[2]: https://www.instagram.com/
+[3]: https://www.twitter.com/
+[4]: https://www.linkedin.com/
+[5]: https://www.github.com/
+[6]: https://in.pinterest.com/
+[7]: https://tumblr.com
 
 ---------LINK TO THE ICON IS-------------------------------------------------------------------------------
 HERE:- https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
@@ -52,8 +60,8 @@ Do whatever you want
 
 Many Icons are available in the repository, If your need more or any other help Contact me :-
 
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][11]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][12]
 
-[3]: https://www.twitter.com/_shikhar_jais
-[4]: https://www.linkedin.com/in/shikhar1020jais
+[11]: https://www.twitter.com/_shikhar_jais
+[12]: https://www.linkedin.com/in/shikhar1020jais
