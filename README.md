@@ -50,4 +50,10 @@ Do whatever you want
 
 ### Notice
 
-Many Icons are available in the repository if your need more mail me @ shikhar1020jaiswal@gmail.com
+Many Icons are available in the repository, If your need more or any other help Contact me :-
+
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+
+[3]: https://www.twitter.com/_shikhar_jais
+[4]: https://www.linkedin.com/in/shikhar1020jais
