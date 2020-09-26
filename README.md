@@ -1,6 +1,6 @@
 # Git-Social
 
-### Add social media links to your GitHub README
+## Add social media links to your GitHub README
 Easy: Fork this repo and it with your own social media URLs. You can then copy / paste the social media icons into any of your project's README and you're done!
 
 Example
@@ -17,4 +17,8 @@ You have access to icons :-
 
 ---------LINK TO THE ICON IS-------------------------------------------------------------------------------
 HERE:- https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons
+
+### CODE:-
+
+<!-- display the social media buttons in your README -->
 
