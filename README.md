@@ -36,29 +36,29 @@ You have access to icons :-
 
 ## CODE:-
 
-```
-<!-- display the social media buttons in your README -->
 
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
-[![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
-[![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
+    <!-- display the social media buttons in your README -->
 
-<!-- To Link your profile to the media buttons -->
+    [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+    [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+    [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+    [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+    [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
+    [![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
+    [![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
 
-[1]: https://www.facebook.com/username
-[2]: https://www.instagram.com/username
-[3]: https://www.twitter.com/username
-[4]: https://www.linkedin.com/in/username
-[5]: https://www.github.com/username
-[6]: https://in.pinterest.com/username
-[7]: https://username.tumblr.com
----------------------------------------------------------------------------------------------------------------
+    <!-- To Link your profile to the media buttons -->
 
-```
+    [1]: https://www.facebook.com/username
+    [2]: https://www.instagram.com/username
+    [3]: https://www.twitter.com/username
+    [4]: https://www.linkedin.com/in/username
+    [5]: https://www.github.com/username
+    [6]: https://in.pinterest.com/username
+    [7]: https://username.tumblr.com
+
+
+
 ### License
 
 Do whatever you want
